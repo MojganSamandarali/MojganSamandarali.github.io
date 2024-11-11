@@ -73,6 +73,7 @@ Variable categories are presented according to guide color on the right side; th
 
 # Apendix 
 
+<img src="/images/grassrootImage/A_1_.png" alt="">
 
 Figure A.1. Visualizing The coordinate of Variables on  the first two dimensions.
 Identifying of variables shaping the multivariate structure of the dataset, Figure A.1. visualizes the correlation between variables and MCA principal dimensions (the coordinates are the squared correlations between variables and the dimensions). It can be seen that variable gender is the most correlated with dimension 1. Similarly, variable IPC is most correlation with dimension 2. With other words, on the first axis the individuals are separated according to gender and on the second axis according to IPC. Moreover, variables Education, Age and Career are better variables to explain oppositions between individuals on the first and second axes. (The table of correlation of variables and the fine dimensions is presented in Appendix 2.
