@@ -38,5 +38,12 @@ Implementing the MCA required careful selection of variables and interpretation 
 # Results
 This analysis revealed distinct clusters among grassroots innovators, categorized by factors such as career background and innovation field. The findings provide valuable insights into how these clusters vary by region and demographics, contributing to targeted policy suggestions aimed at supporting innovation in diverse contexts.
 
-
 **Suggested Citation**: Ghadimi, A., Samnadar Ali Eshtehardi, M., Saviz, M., Mahdad, M., (2023) Grassroots Innovations and innovators: the case of Iran, Journal of Innovation and Development, 1-24. DOI: [https://doi.org/10.1080/2157930X.2023.2233208](https://doi.org/10.1080/2157930X.2023.2233208)
+
+
+# Images:
+
+
+<img src='/images/grassrootImage/GrassrootsInnovatros.png>
+
+Figure 1. The distribution of grassroots innovations by grassroots innovatros
