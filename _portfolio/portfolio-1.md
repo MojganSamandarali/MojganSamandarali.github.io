@@ -42,6 +42,6 @@ This analysis revealed distinct clusters among grassroots innovators, categorize
 
 # Images:
 
-<img src="images/grassrootImage/GrassrootsInnovators.png" alt="Figure 1: The distribution of grassroots innovations by grassroots innovators">
+<img src="images/grassrootImage/1_GrassrootsInnovatros.png" alt="Figure 1: The distribution of grassroots innovations by grassroots innovators">
 
 Figure 1. The distribution of grassroots innovations by grassroots innovators
