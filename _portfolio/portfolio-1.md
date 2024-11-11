@@ -40,10 +40,8 @@ This analysis revealed distinct clusters among grassroots innovators, categorize
 
 **Suggested Citation**: Ghadimi, A., Samnadar Ali Eshtehardi, M., Saviz, M., Mahdad, M., (2023) Grassroots Innovations and innovators: the case of Iran, Journal of Innovation and Development, 1-24. DOI: [https://doi.org/10.1080/2157930X.2023.2233208](https://doi.org/10.1080/2157930X.2023.2233208)
 
-
 # Images:
 
+<img src="/images/grassrootImage/GrassrootsInnovators.png" alt="Figure 1: The distribution of grassroots innovations by grassroots innovators">
 
-<img src='/images/grassrootImage/GrassrootsInnovatros.png>
-
-Figure 1. The distribution of grassroots innovations by grassroots innovatros
+Figure 1. The distribution of grassroots innovations by grassroots innovators
