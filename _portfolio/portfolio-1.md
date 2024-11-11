@@ -5,8 +5,7 @@ collection: portfolio
 ---
 
 
-
-# Labour Market Landscape for Economics Graduates in Canada
+The study, titled "Labour Market Landscape for Economics Graduates in Canada," investigates the demand for economics-related job skills across different Canadian provinces. The research uses a comprehensive dataset of job listings sourced from Indeed.ca, focusing on positions requiring economics degrees or relevant qualifications.
 
 ## Methodology
 
