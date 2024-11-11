@@ -1,42 +1,42 @@
 ---
-title: "Grassroots Innovation in Iran: Understanding Bottom-Up Solutions for Local Development"
+title: "Grassroot Innovation Analysis"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/MCA.png'>"
 collection: portfolio
 ---
 
+# Project Overview 
 
-# Overview
+In this project, I explored grassroots innovation data using Multiple Correspondence Analysis (MCA) to identify key patterns across various categories, such as demographics, career paths, and urban vs. rural innovation contexts. This project involved several steps in data preprocessing, analysis, and visualization that culminated in a published study.
 
-In this project, I conducted an in-depth analysis of grassroots innovations (GIs) across Iran, contributing valuable insights to the study of bottom-up innovation in developing countries. The research explores how community-driven, locally sourced innovations contribute to sustainable development by addressing local needs with low-cost, accessible solutions. The project culminated in a published paper, enhancing the academic discourse on grassroots innovation as a vital, alternative approach to traditional, top-down innovation models.
+# Data Preparation and Analysis
+The dataset included categorical variables representing different aspects of grassroots innovators. To handle this data effectively:
 
-# Key Findings
+1. **Data Cleaning**: Rows with missing values were removed to ensure a balanced dataset.
+2. **Variable Transformation**: Categorical variables were transformed into factors, enabling them to be analyzed with MCA.
+   
+# MCA Implementation
 
-Using a dataset collected from multiple provinces in Iran, I analyzed the demographics, geographic distribution, and professional backgrounds of grassroots innovators. This research provided a unique perspective on grassroots innovation in Iran, revealing the following:
+The MCA was conducted using the FactoMineR and factoextra libraries in R. This technique helped us reduce the data’s dimensionality, capturing the most significant relationships among the variables:
 
-Geographic and Demographic Insights: Unlike typical patent-driven innovations concentrated in major cities, Iran’s grassroots innovations are spread across diverse regions, especially in Fars and South Khorasan provinces. A significant finding was the high level of education among Iranian grassroots innovators, with 67% holding higher education qualifications, which is unique compared to innovators in similar countries.
+* **Optimal Dimensions**: An eigenvalue scree plot was used to determine the optimal number of dimensions, ensuring the analysis retained the most variance.
+Variance Explained: The selected dimensions captured significant variance, allowing us to interpret the positions of categories and individuals in a reduced space.
 
-Three Distinct Innovator Clusters: Through clustering and correspondence analysis, I identified three main groups of grassroots innovators:
+# Visualizations
 
-Cluster 1: Highly educated, young male innovators (ages 21–40) working in fields like physics and electricity.
-Cluster 2: Older males (ages 40+) with mid-level education in rural areas focusing on engineering and transportation.
-Cluster 3: Young female students (ages 10–20) primarily innovating in chemistry and addressing human necessities.
-These clusters emphasize how education, age, and region influence the types of innovations generated, highlighting the diversity and regional specificity of grassroots innovation in Iran.
+Using ggplot2 and factoextra, I generated visualizations to display the analysis results effectively:
 
-Innovation Fields: The majority of innovations fell under “Human Necessities,” including agriculture and public health, followed by mechanical engineering and electrical solutions, reflecting the practical, community-oriented nature of grassroots innovations.
-Methods
-The research used Multiple Correspondence Analysis (MCA) and K-means clustering to uncover hidden patterns among innovators. By analyzing innovation submissions through these methods, I was able to delineate distinct demographic and occupational profiles, providing insights that are critical for tailored policy support.
+* **Variable Factor Map**: The MCA factor map (see figure below) illustrates the relationships among variables. Categories with similar response patterns are located closer together, suggesting potential clusters or groupings of grassroots innovators.
 
-Impact and Implications
-This study underscores the role of grassroots innovation in Iran’s development landscape, showing that bottom-up, community-driven solutions are pivotal for sustainable progress. The findings suggest that GIs can be a valuable addition to Iran’s innovation policy, complementing traditional R&D-driven approaches by leveraging local knowledge and resources.
+Contribution Plot: Additional visualizations displayed the contribution of each variable to the MCA dimensions, which helped to identify the most influential categories in the dataset.
 
+Clustering Analysis: K-means clustering was performed on the MCA output to group similar observations. I used the Elbow, Silhouette, and Gap Statistic methods to identify the optimal number of clusters. The final cluster plot (see figure) reveals clear groups within the data, with ellipses representing confidence intervals around each cluster, providing insights into distinct types of grassroots innovators.
 
+# Technical Challenges and Solutions
 
+Implementing the MCA required careful selection of variables and interpretation of dimensions. For example, identifying statistically significant categories and investigating R-squared values for each category ensured robustness in the analysis. Additionally, the clustering results were overlaid on the MCA plot using the ggplot2 library’s advanced features, creating an intuitive visualization that highlighted key insights.
 
-
-
-
-
-
+# Results
+This analysis revealed distinct clusters among grassroots innovators, categorized by factors such as career background and innovation field. The findings provide valuable insights into how these clusters vary by region and demographics, contributing to targeted policy suggestions aimed at supporting innovation in diverse contexts.
 
 
-Citation: Ghadimi, A., Samnadar Ali Eshtehardi, M., Saviz, M., Mahdad, M., (2023) Grassroots Innovations and innovators: the case of Iran, Journal of Innovation and Development, 1-24. DOI: [https://doi.org/10.1080/2157930X.2023.2233208](https://doi.org/10.1080/2157930X.2023.2233208)
+**Suggested Citation**: Ghadimi, A., Samnadar Ali Eshtehardi, M., Saviz, M., Mahdad, M., (2023) Grassroots Innovations and innovators: the case of Iran, Journal of Innovation and Development, 1-24. DOI: [https://doi.org/10.1080/2157930X.2023.2233208](https://doi.org/10.1080/2157930X.2023.2233208)
