@@ -45,3 +45,40 @@ This analysis revealed distinct clusters among grassroots innovators, categorize
 <img src="/images/grassrootImage/1_GrassrootsInnovatros.png" alt="Figure 1: The distribution of grassroots innovations by grassroots innovators">
 
 Figure 1. The distribution of grassroots innovations by grassroots innovators
+
+
+<img src="/images/grassrootImage/2_LOCATION.png.png" alt="Figure 2">
+Figure 2. The distribution of grassroot innovators across Iranian provice and rural/urban area by gender. Dark collars indicate male and modest brith collors indicate female, very light collors indicate unspecified. Green and blue indicate rural and urban area, respectivley. 
+
+
+Figure 3. Education level, age group composition, and Occupation of the grassroots innovators (ISCO_08)
+
+
+Figure 4. Technological fields of grassroots innovations by rural-urban area
+
+
+Figure 5. Scree plot of eigenvalues against the number of dimensions
+
+
+Figure 6. Consensus on optimal number of clusters obtained from NbClust package
+
+
+
+Figure 7. Map of perception linked to the grassroots innovators’ and innovations’ characteristics
+Variable categories are presented according to guide color on the right side; the gray points represent observations. The density curves illustrates zones that are highly concentrated. The 3 clusters are depicted by Ellipses (Left figure). MCA plot for the variables (left Figure) and categieries of varibles (right figure)
+
+
+
+# Apendix 
+
+
+Figure A.1. Visualizing The coordinate of Variables on  the first two dimensions.
+Identifying of variables shaping the multivariate structure of the dataset, Figure A.1. visualizes the correlation between variables and MCA principal dimensions (the coordinates are the squared correlations between variables and the dimensions). It can be seen that variable gender is the most correlated with dimension 1. Similarly, variable IPC is most correlation with dimension 2. With other words, on the first axis the individuals are separated according to gender and on the second axis according to IPC. Moreover, variables Education, Age and Career are better variables to explain oppositions between individuals on the first and second axes. (The table of correlation of variables and the fine dimensions is presented in Appendix 2.
+
+
+
+
+Figure A.2. MCA factor map on the first two dimetions
+
+
+Figure A.3. 
