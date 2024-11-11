@@ -4,6 +4,8 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/MCA
 collection: portfolio
 ---
 
+
+
 # Project Overview 
 
 In this project, I explored grassroots innovation data using Multiple Correspondence Analysis (MCA) to identify key patterns across various categories, such as demographics, career paths, and urban vs. rural innovation contexts. This project involved several steps in data preprocessing, analysis, and visualization that culminated in a published study.
