@@ -9,21 +9,21 @@ collection: portfolio
 In this project, I explored grassroots innovation data using Multiple Correspondence Analysis (MCA) to identify key patterns across various categories, such as demographics, career paths, and urban vs. rural innovation contexts. This project involved several steps in data preprocessing, analysis, and visualization that culminated in a published study.
 
 # Data Preparation and Analysis
-The dataset included categorical variables representing different aspects of grassroots innovators. To handle this data effectively:
+The dataset included categorical variables representing different aspects of grassroots innovators. I used **Excel** for preliminary data cleaning and exploratory visualization, which helped me get an initial sense of the data. To handle this data effectively:
 
-1. **Data Cleaning**: Rows with missing values were removed to ensure a balanced dataset.
-2. **Variable Transformation**: Categorical variables were transformed into factors, enabling them to be analyzed with MCA.
-   
+1. **Data Cleaning**: Rows with missing values were removed in Excel to ensure a balanced dataset.
+2. **Variable Transformation**: Categorical variables were transformed into factors in **R Studio**, enabling them to be analyzed with MCA.
+
 # MCA Implementation
 
-The MCA was conducted using the FactoMineR and factoextra libraries in R. This technique helped us reduce the data’s dimensionality, capturing the most significant relationships among the variables:
+The MCA was conducted in **R Studio** using the FactoMineR and factoextra libraries. This technique helped us reduce the data’s dimensionality, capturing the most significant relationships among the variables:
 
-* **Optimal Dimensions**: An eigenvalue scree plot was used to determine the optimal number of dimensions, ensuring the analysis retained the most variance.
+* **Optimal Dimensions**: An eigenvalue scree plot was generated in R to determine the optimal number of dimensions, ensuring the analysis retained the most variance.
 Variance Explained: The selected dimensions captured significant variance, allowing us to interpret the positions of categories and individuals in a reduced space.
 
 # Visualizations
 
-Using ggplot2 and factoextra, I generated visualizations to display the analysis results effectively:
+Using **ggplot2** and **factoextra** in R Studio, I generated visualizations to display the analysis results effectively:
 
 * **Variable Factor Map**: The MCA factor map (see figure below) illustrates the relationships among variables. Categories with similar response patterns are located closer together, suggesting potential clusters or groupings of grassroots innovators.
 
@@ -33,7 +33,7 @@ Clustering Analysis: K-means clustering was performed on the MCA output to group
 
 # Technical Challenges and Solutions
 
-Implementing the MCA required careful selection of variables and interpretation of dimensions. For example, identifying statistically significant categories and investigating R-squared values for each category ensured robustness in the analysis. Additionally, the clustering results were overlaid on the MCA plot using the ggplot2 library’s advanced features, creating an intuitive visualization that highlighted key insights.
+Implementing the MCA required careful selection of variables and interpretation of dimensions. For example, identifying statistically significant categories and investigating R-squared values for each category ensured robustness in the analysis. Additionally, the clustering results were overlaid on the MCA plot using the **ggplot2** library’s advanced features in R, creating an intuitive visualization that highlighted key insights.
 
 # Results
 This analysis revealed distinct clusters among grassroots innovators, categorized by factors such as career background and innovation field. The findings provide valuable insights into how these clusters vary by region and demographics, contributing to targeted policy suggestions aimed at supporting innovation in diverse contexts.
