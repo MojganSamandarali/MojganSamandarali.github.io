@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/MCA
 collection: portfolio
 ---
 
-\n
+
 
 # Project Overview 
 
@@ -89,7 +89,8 @@ Identifying of variables shaping the multivariate structure of the dataset, Figu
 Figure A.2. MCA factor map on the first two dimetions
 
 <img src="/images/grassrootImage/A.3.Clustree.png" alt="A.3.">
-Figure A.3. 
+Figure A.3. Clustree Visualization
+I used the clustree package in R to visualize how samples shift between clusters as the number of clusters increases. This approach is useful for identifying which clusters are distinct and which are unstable. While it doesn't explicitly determine the optimal number of clusters, based on the diagram above, four clusters are suggested, as this grouping provides a balance between distinctiveness and stability.
 
 
 
