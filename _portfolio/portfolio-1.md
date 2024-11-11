@@ -83,7 +83,7 @@ Python was the primary tool used for data analysis, while Excel and Photoshop we
 The center heat map represents the number of jobs in each province. The top-right corner pie chart represents the percentage and number of jobs by types: onsite, remote, hybrid. The pie charts around the heat map represent the distribution of job types (onsite, remote, hybrid) within each province. The bottom-left pie chart shows the number of jobs with remote location specified, along with their distribution by type (remote, hybrid, remote and hybird)
 
 
-
+<img src="/images/Labour/1_Map.png" alt="">
  **Figure 2.** Top 10 Cities with the highest number of jobs for Economics graduates.
 
 
