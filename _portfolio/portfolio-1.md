@@ -79,8 +79,31 @@ Python was the primary tool used for data analysis, while Excel and Photoshop we
 
 ## Figures
 
-- **Figure 1:** [Insert figure description here]
-- **Figure 2:** [Insert figure description here]
-- **Figure 3:** [Insert figure description here]
+
+**Figure 1.** Number and types of jobs in Canadian Provinces. 
+The center heat map represents the number of jobs in each province. The top-right corner pie chart represents the percentage and number of jobs by types: onsite, remote, hybrid. The pie charts around the heat map represent the distribution of job types (onsite, remote, hybrid) within each province. The bottom-left pie chart shows the number of jobs with remote location specified, along with their distribution by type (remote, hybrid, remote and hybird)
 
 
+
+ **Figure 2.** Top 10 Cities with the highest number of jobs for Economics graduates.
+
+
+**Figure 3.** Network Analysis of Degrees (closet programmes )
+
+
+**Figure 4.** Network Analysis of Disciplines
+
+
+**Figure 5.** Degree Requirements for Job Listings
+
+
+**Figure 6.** Minimum Years of Experience Required for Job Listings
+
+
+**Figure 7.** Network Analysis of Soft Skills
+
+
+**Figure 8.** Network Analysis of Technical Skills
+
+
+**Figure 9.** Most requested softwares and platforms
