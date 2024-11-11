@@ -47,23 +47,25 @@ This analysis revealed distinct clusters among grassroots innovators, categorize
 Figure 1. The distribution of grassroots innovations by grassroots innovators
 
 
-<img src="/images/grassrootImage/2_LOCATION.png.png" alt="Figure 2">
+<img src="/images/grassrootImage/2_LOCATION.png.png" alt="">
 Figure 2. The distribution of grassroot innovators across Iranian provice and rural/urban area by gender. Dark collars indicate male and modest brith collors indicate female, very light collors indicate unspecified. Green and blue indicate rural and urban area, respectivley. 
 
-
+<img src="/images/grassrootImage/3_1_AgeGroup.png.png" alt="">
+<img src="/images/grassrootImage/3_2_EDUCATION.png.png" alt="">
+<img src="/images/grassrootImage/3_3_Occupation.png" alt="">
 Figure 3. Education level, age group composition, and Occupation of the grassroots innovators (ISCO_08)
 
+<img src="/images/grassrootImage/4_IPC.png" alt="">
+Figure 4. Technological fields of grassroots innovations
 
-Figure 4. Technological fields of grassroots innovations by rural-urban area
-
-
+<img src="/images/grassrootImage/5_1_Scree plot.png" alt="">
 Figure 5. Scree plot of eigenvalues against the number of dimensions
 
-
+<img src="/images/grassrootImage/6_NbClust.png" alt="">
 Figure 6. Consensus on optimal number of clusters obtained from NbClust package
 
 
-
+<img src="/images/grassrootImage/7_MCA.png" alt="">
 Figure 7. Map of perception linked to the grassroots innovators’ and innovations’ characteristics
 Variable categories are presented according to guide color on the right side; the gray points represent observations. The density curves illustrates zones that are highly concentrated. The 3 clusters are depicted by Ellipses (Left figure). MCA plot for the variables (left Figure) and categieries of varibles (right figure)
 
@@ -75,10 +77,16 @@ Variable categories are presented according to guide color on the right side; th
 Figure A.1. Visualizing The coordinate of Variables on  the first two dimensions.
 Identifying of variables shaping the multivariate structure of the dataset, Figure A.1. visualizes the correlation between variables and MCA principal dimensions (the coordinates are the squared correlations between variables and the dimensions). It can be seen that variable gender is the most correlated with dimension 1. Similarly, variable IPC is most correlation with dimension 2. With other words, on the first axis the individuals are separated according to gender and on the second axis according to IPC. Moreover, variables Education, Age and Career are better variables to explain oppositions between individuals on the first and second axes. (The table of correlation of variables and the fine dimensions is presented in Appendix 2.
 
+<img src="/images/grassrootImage/A_2_confidence plot.png" alt="">
 
+Figure A.1. Visualizing The coordinate of Variables on  the first two dimensions.
+Identifying of variables shaping the multivariate structure of the dataset, Figure A.1. visualizes the correlation between variables and MCA principal dimensions (the coordinates are the squared correlations between variables and the dimensions). It can be seen that variable gender is the most correlated with dimension 1. Similarly, variable IPC is most correlation with dimension 2. With other words, on the first axis the individuals are separated according to gender and on the second axis according to IPC. Moreover, variables Education, Age and Career are better variables to explain oppositions between individuals on the first and second axes. (The table of correlation of variables and the fine dimensions is presented in Appendix 2.
 
 
 Figure A.2. MCA factor map on the first two dimetions
 
-
+<img src="/images/grassrootImage/A.3.Clustree.png" alt="A.3.">
 Figure A.3. 
+
+
+
