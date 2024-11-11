@@ -18,8 +18,7 @@ Education
 
 Work experience
 ======
-* Nov 2018 – Dec 2022: Senior Researcher
-  * National Research Institute for Science Policy (NRISP)
+* Nov 2018 – Dec 2022: **Senior Researcher**,  National Research Institute for Science Policy (NRISP)
   * Duties includes:
     
     o Analyzed data to uncover trends and improve decision-making.
