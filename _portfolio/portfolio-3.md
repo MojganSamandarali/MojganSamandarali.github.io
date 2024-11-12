@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Regional innovative behavior"
+excerpt: "he "Labour Market Landscape for Economics Graduates in Canada" project provides an in-depth analysis of job market trends, skill requirements, and regional variations for economics graduates, utilizing advanced data analysis and network metrics. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
