@@ -1,6 +1,6 @@
 ---
 title: "Grassroot Innovation Analysis"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/MCA.png'>"
+excerpt: "Grassroot innovation analysis involves evaluating locally-driven, community-based solutions to identify innovative practices, technologies, or strategies that address specific social or economic challenges at the grassroots level.<br/><img src='/images/MCA.png'>"
 collection: portfolio
 ---
 
