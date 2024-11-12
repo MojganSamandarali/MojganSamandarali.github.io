@@ -1954,7 +1954,6 @@ word-wrap:break-word'>
 
 <p class=MsoTitle>MyScientometrics App</p>
 
-<p class=MsoNormal align=center style='text-align:center'>Mojgan Samandar A. E.</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -1962,9 +1961,7 @@ word-wrap:break-word'>
 href="https://samandarali.shinyapps.io/MyScientometrics3/">https://samandarali.shinyapps.io/MyScientometrics3/</a>
 </p>
 
-<p class=MsoNormal>For the code, please click <a
-href="https://gist.github.com/MojganSamandar/4cbbae07d12b51a407e4416cf4c3efa7">here</a>.
-</p>
+
 
 <h1>Purpose:</h1>
 
