@@ -74,6 +74,9 @@ Additionally, the analysis focused on job postings from provinces with more than
 
 Python was the primary tool used for data analysis, while Excel and Photoshop were employed to enhance efficiency for specific tasks.
 
+
+**Suggested Citation**:	Samandar Ali Eshtehardi, M., Labour Market Landscape for Economics Graduates in Canada, Canadian Public Policy, Forthcomming March 2024.
+
 ---
 
 ## Figures
