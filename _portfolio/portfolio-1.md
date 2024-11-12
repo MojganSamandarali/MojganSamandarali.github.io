@@ -87,6 +87,8 @@ The center heat map represents the number of jobs in each province. The top-righ
 
 
 <img src="/images/Labour/1_Map.png" alt="">
+
+
  **Figure 2.** Top 10 Cities with the highest number of jobs for Economics graduates.
 
 
