@@ -40,7 +40,7 @@ Implementing the MCA required careful selection of variables and interpretation 
 # Results
 This analysis revealed distinct clusters among grassroots innovators, categorized by factors such as career background and innovation field. The findings provide valuable insights into how these clusters vary by region and demographics, contributing to targeted policy suggestions aimed at supporting innovation in diverse contexts.
 
-**Suggested Citation**: Ghadimi, A., Samnadar Ali Eshtehardi, M., Saviz, M., Mahdad, M., (2023) Grassroots Innovations and innovators: the case of Iran, Journal of Innovation and Development, 1-24. DOI: [https://doi.org/10.1080/2157930X.2023.2233208](https://doi.org/10.1080/2157930X.2023.2233208)
+
 
 # Images:
 
@@ -87,5 +87,6 @@ Figure A.2. MCA factor map on the first two dimetions
 Figure A.3. Clustree Visualization
 I used the clustree package in R to visualize how samples shift between clusters as the number of clusters increases. This approach is useful for identifying which clusters are distinct and which are unstable. While it doesn't explicitly determine the optimal number of clusters, based on the diagram above, four clusters are suggested, as this grouping provides a balance between distinctiveness and stability.
 
-
+# Citation
+**Suggested Citation**: Ghadimi, A., Samnadar Ali Eshtehardi, M., Saviz, M., Mahdad, M., (2023) Grassroots Innovations and innovators: the case of Iran, Journal of Innovation and Development, 1-24. DOI: [https://doi.org/10.1080/2157930X.2023.2233208](https://doi.org/10.1080/2157930X.2023.2233208)
 
