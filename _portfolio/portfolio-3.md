@@ -2051,7 +2051,7 @@ multi-purpose languages. </p>
    <o:lock v:ext="edit" aspectratio="t"/>
   </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1030" type="#_x0000_t75"
    style='width:264pt;height:133.5pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="MyScientometrics%20AppDocumentary_files/image001.png"
+   <v:imagedata src="_portfolio/MyScientometrics AppDocumentary_files//image001.png"
     o:title=""/>
   </v:shape></p>
   </td>
