@@ -81,7 +81,7 @@ Python was the primary tool used for data analysis, while Excel and Photoshop we
 
 ## Figures
 
-<img src="/images/Labour/Picture1" alt="">
+<img src="/images/Canada/Picture1.jpg" alt="">
 **Figure 1.** Number and types of jobs in Canadian Provinces. 
 The center heat map represents the number of jobs in each province. The top-right corner pie chart represents the percentage and number of jobs by types: onsite, remote, hybrid. The pie charts around the heat map represent the distribution of job types (onsite, remote, hybrid) within each province. The bottom-left pie chart shows the number of jobs with remote location specified, along with their distribution by type (remote, hybrid, remote and hybird)
 
