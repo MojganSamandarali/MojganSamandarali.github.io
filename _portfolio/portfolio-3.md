@@ -32,9 +32,7 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>Mojgan</o:Author>
   <o:Template>Normal</o:Template>
-  <o:LastAuthor>Mojgan Samandar</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>16</o:TotalTime>
   <o:LastPrinted>2023-04-17T22:36:00Z</o:LastPrinted>
