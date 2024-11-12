@@ -1,6 +1,6 @@
 ---
 title: "Health Conditions by Age Category"
-excerpt: "association analysis .<br/><img src='/images/Health_Kaggle.png'>"
+excerpt: "association analysis .<br/><img src='/images/association.png'>"
 collection: portfolio
 ---
 
