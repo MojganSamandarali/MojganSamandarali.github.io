@@ -1,6 +1,6 @@
 ---
 title: "1.	Labour Market Landscape for Economics Graduates in Canada"
-excerpt: "The "Labour Market Landscape for Economics Graduates in Canada" project provides an in-depth analysis of job market trends, skill requirements, and regional variations for economics graduates, utilizing advanced data analysis and network metrics.<br/><img src='/images/Canada1.png'>"
+excerpt: "The 'Labour Market Landscape for Economics Graduates in Canada' project provides an in-depth analysis of job market trends, skill requirements, and regional variations for economics graduates, utilizing advanced data analysis and network metrics.<br/><img src='/images/Canada1.png'>"
 collection: portfolio
 ---
 
