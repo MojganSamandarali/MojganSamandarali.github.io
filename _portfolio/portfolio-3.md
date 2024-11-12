@@ -1,6 +1,6 @@
 ---
 title: "MyScientometrics"
-excerpt: "A R Shiny app for scientometrics and biblometrics analysis.<br/><img src='/images/MCA.png'>"
+excerpt: "A R Shiny app for scientometrics and biblometrics analysis.<br/><img src='/images/myscientometricsApp.png'>"
 collection: portfolio
 ---
 
