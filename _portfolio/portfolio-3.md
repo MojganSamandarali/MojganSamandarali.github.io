@@ -4,10 +4,6 @@ excerpt: "A R Shiny app for scientometrics and biblometrics analysis.<br/><img s
 collection: portfolio
 ---
 
-Link to app: https://samandarali.shinyapps.io/MyScientometrics3/ 
-# Project Overview 
-
-
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
@@ -20,9 +16,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="MyScientometrics%20AppDocumentary_files/filelist.xml">
-<link rel=Edit-Time-Data
-href="MyScientometrics%20AppDocumentary_files/editdata.mso">
+<link rel=File-List href="MyScientometricsDocumentary_files/filelist.xml">
+<link rel=Edit-Time-Data href="MyScientometricsDocumentary_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -32,19 +27,21 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
+  <o:Author>Mojgan</o:Author>
   <o:Template>Normal</o:Template>
+  <o:LastAuthor>Mojgan Samandar</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>16</o:TotalTime>
   <o:LastPrinted>2023-04-17T22:36:00Z</o:LastPrinted>
-  <o:Created>2024-11-12T03:48:00Z</o:Created>
-  <o:LastSaved>2024-11-12T03:48:00Z</o:LastSaved>
+  <o:Created>2024-11-12T04:35:00Z</o:Created>
+  <o:LastSaved>2024-11-12T04:35:00Z</o:LastSaved>
   <o:Pages>6</o:Pages>
-  <o:Words>2298</o:Words>
-  <o:Characters>13104</o:Characters>
+  <o:Words>2277</o:Words>
+  <o:Characters>12982</o:Characters>
   <o:Company>diakov.net</o:Company>
-  <o:Lines>109</o:Lines>
+  <o:Lines>108</o:Lines>
   <o:Paragraphs>30</o:Paragraphs>
-  <o:CharactersWithSpaces>15372</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>15229</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -52,13 +49,11 @@ w\:* {behavior:url(#default#VML);}
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem
-href="MyScientometrics%20AppDocumentary_files/item0001.xml"
-target="MyScientometrics%20AppDocumentary_files/props002.xml">
-<link rel=themeData
-href="MyScientometrics%20AppDocumentary_files/themedata.thmx">
+<link rel=dataStoreItem href="MyScientometricsDocumentary_files/item0001.xml"
+target="MyScientometricsDocumentary_files/props002.xml">
+<link rel=themeData href="MyScientometricsDocumentary_files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="MyScientometrics%20AppDocumentary_files/colorschememapping.xml">
+href="MyScientometricsDocumentary_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -1185,16 +1180,16 @@ span.GramE
 	line-height:107%;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("MyScientometrics%20AppDocumentary_files/header.htm") fs;
-	mso-footnote-continuation-separator:url("MyScientometrics%20AppDocumentary_files/header.htm") fcs;
-	mso-endnote-separator:url("MyScientometrics%20AppDocumentary_files/header.htm") es;
-	mso-endnote-continuation-separator:url("MyScientometrics%20AppDocumentary_files/header.htm") ecs;}
+	{mso-footnote-separator:url("MyScientometricsDocumentary_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("MyScientometricsDocumentary_files/header.htm") fcs;
+	mso-endnote-separator:url("MyScientometricsDocumentary_files/header.htm") es;
+	mso-endnote-continuation-separator:url("MyScientometricsDocumentary_files/header.htm") ecs;}
 @page WordSection1
 	{size:612.0pt 792.0pt;
 	margin:72.0pt 72.0pt 72.0pt 72.0pt;
 	mso-header-margin:36.0pt;
 	mso-footer-margin:36.0pt;
-	mso-footer:url("MyScientometrics%20AppDocumentary_files/header.htm") f1;
+	mso-footer:url("MyScientometricsDocumentary_files/header.htm") f1;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -1954,14 +1949,11 @@ word-wrap:break-word'>
 
 <p class=MsoTitle>MyScientometrics App</p>
 
-
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal>Link to app: <a
 href="https://samandarali.shinyapps.io/MyScientometrics3/">https://samandarali.shinyapps.io/MyScientometrics3/</a>
 </p>
-
-
 
 <h1>Purpose:</h1>
 
@@ -2051,15 +2043,13 @@ multi-purpose languages. </p>
    <o:lock v:ext="edit" aspectratio="t"/>
   </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1030" type="#_x0000_t75"
    style='width:264pt;height:133.5pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="_portfolio/MyScientometrics AppDocumentary_files//image001.png"
-    o:title=""/>
+   <v:imagedata src="MyScientometricsDocumentary_files/image001.png" o:title=""/>
   </v:shape></p>
   </td>
   <td width=312 valign=top style='width:233.75pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=Figure><v:shape id="Picture_x0020_2" o:spid="_x0000_i1029" type="#_x0000_t75"
    style='width:197.25pt;height:116.25pt;visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="MyScientometrics%20AppDocumentary_files/image002.png"
-    o:title=""/>
+   <v:imagedata src="MyScientometricsDocumentary_files/image002.png" o:title=""/>
   </v:shape></p>
   </td>
  </tr>
@@ -2195,8 +2185,7 @@ with easy-to-interpret visualizations of the bibliometric analysis results. </p>
 
 <p class=Figure><v:shape id="Picture_x0020_6" o:spid="_x0000_i1028" type="#_x0000_t75"
  style='width:468pt;height:234.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="MyScientometrics%20AppDocumentary_files/image003.png"
-  o:title=""/>
+ <v:imagedata src="MyScientometricsDocumentary_files/image003.png" o:title=""/>
 </v:shape></p>
 
 <p class=MsoCaption><a name="_Ref132411560">Figure </a><!--[if supportFields]><span
@@ -2339,8 +2328,7 @@ need to be downloaded separately, e.g., (1-500), (501-1000), etc. </p>
 style='mso-no-proof:yes'><v:shape id="Picture_x0020_9" o:spid="_x0000_i1027"
  type="#_x0000_t75" style='width:187.5pt;height:129pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="MyScientometrics%20AppDocumentary_files/image004.png"
-  o:title=""/>
+ <v:imagedata src="MyScientometricsDocumentary_files/image004.png" o:title=""/>
 </v:shape></span><span style='font-family:Symbol;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
 minor-latin;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
@@ -2348,8 +2336,8 @@ style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span><span
 style='mso-no-proof:yes'><v:shape id="Picture_x0020_10" o:spid="_x0000_i1026"
  type="#_x0000_t75" style='width:61.5pt;height:85.5pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="MyScientometrics%20AppDocumentary_files/image005.png"
-  o:title="" croptop="2813f" cropbottom="19062f" cropleft="26383f" cropright="21413f"/>
+ <v:imagedata src="MyScientometricsDocumentary_files/image005.png" o:title=""
+  croptop="2813f" cropbottom="19062f" cropleft="26383f" cropright="21413f"/>
 </v:shape></span><span style='font-family:Symbol;mso-ascii-font-family:Calibri;
 mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
 minor-latin;mso-char-type:symbol;mso-symbol-font-family:Symbol;mso-no-proof:
@@ -2357,8 +2345,7 @@ yes'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span><
 style='mso-no-proof:yes'><v:shape id="Picture_x0020_12" o:spid="_x0000_i1025"
  type="#_x0000_t75" style='width:125.25pt;height:90.75pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src="MyScientometrics%20AppDocumentary_files/image006.png"
-  o:title=""/>
+ <v:imagedata src="MyScientometricsDocumentary_files/image006.png" o:title=""/>
 </v:shape></span></p>
 
 <p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l9 level1 lfo10'><![if !supportLists]><span
