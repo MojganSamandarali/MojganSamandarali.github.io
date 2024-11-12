@@ -1,6 +1,6 @@
 ---
 title: "Regional innovative behavior"
-excerpt: "Regional innovative behavior.<br/><img src='/images/MCA.png'>"
+excerpt: "Regional innovative behavior.<br/><img src='/images/Regional.png'>"
 collection: portfolio
 ---
 Explored regional innovative behavior in Iran, culminating in a publication in Technological Forecasting & Social Change Journal (2016). [link](https://www.sciencedirect.com/science/article/abs/pii/S0040162516000536)
