@@ -1,6 +1,6 @@
 ---
 title: "Health Conditions by Age Category"
-excerpt: "Regional innovative behavior.<br/><img src='/images/association.png'>"
+excerpt: ".<br/><img src='/images/Health_Kaggle.png'>"
 collection: portfolio
 ---
 
