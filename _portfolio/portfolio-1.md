@@ -75,7 +75,7 @@ Additionally, the analysis focused on job postings from provinces with more than
 Python was the primary tool used for data analysis, while Excel and Photoshop were employed to enhance efficiency for specific tasks.
 
 
-**Suggested Citation**:	Samandar Ali Eshtehardi, M., Labour Market Landscape for Economics Graduates in Canada, Canadian Public Policy, Forthcomming March 2024.
+
 
 ---
 
@@ -112,3 +112,7 @@ The center heat map represents the number of jobs in each province. The top-righ
 
 <img src="/images/Canada1.png" alt="">
 **Figure 9.** Most requested softwares and platforms
+
+# Citation
+
+**Suggested Citation**:	Samandar Ali Eshtehardi, M., Labour Market Landscape for Economics Graduates in Canada, Canadian Public Policy, Forthcomming March 2024.
