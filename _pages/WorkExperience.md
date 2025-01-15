@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Researcher/Data Analyst
+###	Researcher/Data Analyst
 National Research Institute for Science and Policy (NRISP), Tehran, Iran
 Nov 2018 – Dec 2022
 •	Led data collection and analysis efforts in the economics sector, focusing on market trends, labor force dynamics, and economic forecasting.
@@ -16,7 +16,7 @@ Nov 2018 – Dec 2022
 •	Managed multiple research projects simultaneously, ensuring timely delivery and meeting project milestones.
 
 
-Market Research Analyst
+###	Market Research Analyst
 Jofreh United Industries, Tehran, Iran
 Sep 2018 – Mar 2019
 •	Conducted market research on consumer behavior, business conditions, and sales performance.
@@ -25,7 +25,7 @@ Sep 2018 – Mar 2019
 •	Provided insights into pricing strategies for various product categories based on consumer data.
 •	Assisted in tracking and evaluating the effectiveness of marketing campaigns and sales strategies.
 
-Market Research Analyst
+###	Market Research Analyst
 Iran Leasing Public Company, Tehran, Iran
 2006 – 2008
 •	Analyzed market conditions and consumer demand to support leasing operations and business strategies.
