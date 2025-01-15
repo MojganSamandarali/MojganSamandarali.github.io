@@ -7,6 +7,10 @@
 main:
   - title: "Education"
     url: /education/
+
+
+- title: "work Expereince"
+    url: /WorkExperience/
     
   - title: "CV"
     url: /files/MojganSamandarA.E._1page_DataAbalysis.pdf
