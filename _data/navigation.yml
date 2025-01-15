@@ -9,7 +9,7 @@ main:
     url: /education/
 
 
-- title: "work Expereince"
+  - title:"Work Experience"
     url: /WorkExperience/
     
   - title: "CV"
